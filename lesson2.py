@@ -1,0 +1,1 @@
+print("hillel is the best", "summer", sep="\n ")
